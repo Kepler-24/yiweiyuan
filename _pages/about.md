@@ -27,20 +27,20 @@ My research interests lie in Human-Computer Interaction, Human-AI Collaboration,
 - *2023.03*: &nbsp;🎉🎉 One paper was accepted to **ICME 2024** (CCF-B) as co-first author.  
 
 # 📝 Publications 
-
+\* Equal contribution, † Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Full-reference motion quality assessment based on efficient monocular parametric 3d human body reconstruction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10687714)
 
-Yuxin Huang*, Yiwei Yuan*, Xiangyu Zeng*, Ling Xie, Yiyu Fu, Guanghui Yue, Baoquan Zhao
+Yuxin Huang*, Yiwei Yuan*, Xiangyu Zeng*, Ling Xie, Yiyu Fu, Guanghui Yue, Baoquan Zhao†  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# Under Review
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **UIST 2026**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
