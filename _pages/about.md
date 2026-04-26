@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master’s student in Computer Science at the School of Artificial Intelligence, Sun Yat-sen University (SYSU), supervised by Zhenhui Peng. I received my B.Eng. in Artificial Intelligence from Sun Yat-sen University in 2024.
+I am a master’s student in Computer Science at the School of Artificial Intelligence, Sun Yat-sen University (SYSU), supervised by [Zhenhui Peng](https://zhenhuipeng.com/). I received my B.Eng. in Artificial Intelligence from Sun Yat-sen University in 2024.
 My research interests lie in Human-Computer Interaction, Human-AI Collaboration, and intelligent systems for education and healthcare, with a focus on AI-driven interactive systems, image generation, and 3D human reconstruction.
 
 # 🔥 News
