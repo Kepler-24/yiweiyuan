@@ -22,8 +22,10 @@ My research interests lie in Human-Computer Interaction, Human-AI Collaboration,
 
 # 🔥 News
 <span class='anchor' id='news'></span>
-- *2026.11*: &nbsp;🎉🎉 One paper was accepted to **CHI 2026** Poster as second author.
+- *2026.04*： Attended CHI26 in Barcelona. Glad to meet researchers from around the world!
+- *2026.02*: &nbsp;🎉🎉 One paper was accepted to **CHI 2026** Poster as second author.
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted to **BMJ Open**.
+- *2025.11*： Attended ICHEC25 in Singapore and presented our work. 
 - *2025.10*: &nbsp;🎉🎉 One paper was accepted to **ICHEC 2025** as first author.
 - *2023.03*: &nbsp;🎉🎉 One paper was accepted to **ICME 2024** (CCF-B) as co-first author.  
 
@@ -91,9 +93,11 @@ Full-reference motion quality assessment based on efficient monocular parametric
 <span class='anchor' id='internships'></span>
 - *2023.07 - 2023.08*, Software Development Intern, Industrial and Commercial Bank of China (ICBC), China.
 
-# 💁 Academic Service
+# 🧐 Academic Service
 <span class='anchor' id='academic-service'></span>
 - Journal: Coming soon.
 - Conference: Reviewer of CHI 2026 Poster.
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=n&d=_9QIDIosnwnCBpxq2-FETJX9CUm9QhCe_d1rYTS8TuU'></script>
+
+<footer class="footer" style="text-align: center; margin-top: 2em; color: #7a8288;">© 2026 Yiwei Yuan. All rights reserved.</footer>
