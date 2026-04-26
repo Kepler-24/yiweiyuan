@@ -50,12 +50,6 @@ Yuxin Huang*, Yiwei Yuan*, Xiangyu Zeng*, Ling Xie, Yiyu Fu, Guanghui Yue, Baoqu
 - *2024.06 - now*, Postgraduate, School of Artificial Intelligence, Sun Yat-sen University, Guangdong.
 - *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence, Sun Yat-sen University, Guangdong.
 
----
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
----
-
 # 💻 Internships
 - *2023.07 - 2023.08*, Software Development Intern, Industrial and Commercial Bank of China (ICBC), China.
 
