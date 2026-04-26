@@ -33,11 +33,11 @@ My research interests lie in Human-Computer Interaction, Human-AI Collaboration,
 
 [Full-reference motion quality assessment based on efficient monocular parametric 3d human body reconstruction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10687714)
 
-Yuxin Huang*, Yiwei Yuan*, Xiangyu Zeng*, Ling Xie, Yiyu Fu, Guanghui Yue, Baoquan Zhao†  
-
+Yuxin Huang*, **Yiwei Yuan***, Xiangyu Zeng*, Ling Xie, Yiyu Fu, Guanghui Yue, Baoquan Zhao†  
 
 </div>
 </div>
+
 
 # Under Review
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **UIST 2026**
