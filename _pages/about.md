@@ -35,9 +35,10 @@ My research interests lie in Human-Computer Interaction, Human-AI Collaboration,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/chi2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Toward Personalized Proactive Agents on Smart Glasses: From Explicit Context Policies to Implicit User Differences](https://dl.acm.org/doi/pdf/10.1145/3772363.3798509)
+Toward Personalized Proactive Agents on Smart Glasses: From Explicit Context Policies to Implicit User Differences
 
-Haoxiang Fan, **Yiwei Yuan**, Chi Hsia, Chen Liang†, Zhenhui Peng
+- Haoxiang Fan, **Yiwei Yuan**, Chi Hsia, Chen Liang†, Zhenhui Peng
+- In the proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA' 26) [PDF](https://dl.acm.org/doi/pdf/10.1145/3772363.3798509) \| [ACM](https://dl.acm.org/doi/10.1145/3772363.3798509)
 
 </div>
 </div>
@@ -45,18 +46,21 @@ Haoxiang Fan, **Yiwei Yuan**, Chi Hsia, Chen Liang†, Zhenhui Peng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICHEC 2025</div><img src='images/ichec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring Community-Powered Conversational Agent for Health Knowledge Acquisition: A Case Study in Colorectal Cancer](https://arxiv.org/abs/2512.09511)
+Exploring Community-Powered Conversational Agent for Health Knowledge Acquisition: A Case Study in Colorectal Cancer
 
-**Yiwei Yuan**, Zhiqing Wang, Xiucheng Zhang, Yichao Luo, Shuya Lin, Yang Bai, Zhenhui Peng†  
+- **Yiwei Yuan**, Zhiqing Wang, Xiucheng Zhang, Yichao Luo, Shuya Lin, Yang Bai, Zhenhui Peng†  
+- In the proceedings of the International Conference on Human-Engaged Computing (ICHEC' 25) [PDF](https://arxiv.org/pdf/2512.09511) \| [arxiv](https://arxiv.org/abs/2512.09511)
 
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Full-reference motion quality assessment based on efficient monocular parametric 3d human body reconstruction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10687714)
+Full-reference motion quality assessment based on efficient monocular parametric 3d human body reconstruction
 
-Yuxin Huang\*, **Yiwei Yuan**\*, Xiangyu Zeng\*, Ling Xie, Yiyu Fu, Guanghui Yue, Baoquan Zhao†  
+- Yuxin Huang\*, **Yiwei Yuan**\*, Xiangyu Zeng\*, Ling Xie, Yiyu Fu, Guanghui Yue, Baoquan Zhao†  
+- In the proceedings of IEEE International Conference on Multimedia and Expo (ICME' 24) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10687714) \| [IEEE](https://ieeexplore.ieee.org/document/10687714)
 
 </div>
 </div>
