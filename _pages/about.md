@@ -21,14 +21,14 @@ I am a master’s student in Computer Science at the School of Artificial Intell
 My research interests lie in Human-Computer Interaction, Human-AI Collaboration, and intelligent systems for education and healthcare, with a focus on AI-driven interactive systems, image generation, and 3D human reconstruction.
 
 # 🔥 News
-- *2026.11*: &nbsp;🎉🎉 One paper was accepted to CHI 2026 Poster as second author.
-- *2025.11*: &nbsp;🎉🎉 One paper was accepted to BMJ Open.
-- *2025.10*: &nbsp;🎉🎉 One paper was accepted to ICHEC 2025 as first author.
-- *2023.03*: &nbsp;🎉🎉 One paper was accepted to ICME 2025 (CCF-B) as co-first author.  
+- *2026.11*: &nbsp;🎉🎉 One paper was accepted to **CHI 2026** Poster as second author.
+- *2025.11*: &nbsp;🎉🎉 One paper was accepted to **BMJ Open**.
+- *2025.10*: &nbsp;🎉🎉 One paper was accepted to **ICHEC 2025** as first author.
+- *2023.03*: &nbsp;🎉🎉 One paper was accepted to **ICME 2024** (CCF-B) as co-first author.  
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
