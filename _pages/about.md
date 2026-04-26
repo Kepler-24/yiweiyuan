@@ -28,7 +28,7 @@ My research interests lie in Human-Computer Interaction, Human-AI Collaboration,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Full-reference motion quality assessment based on efficient monocular parametric 3d human body reconstruction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10687714)
