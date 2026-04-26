@@ -27,10 +27,21 @@ My research interests lie in Human-Computer Interaction, Human-AI Collaboration,
 - *2025.10*: &nbsp;🎉🎉 One paper was accepted to **ICHEC 2025** as first author.
 - *2023.03*: &nbsp;🎉🎉 One paper was accepted to **ICME 2024** (CCF-B) as co-first author.  
 
-# 📝 Selected Publications 
+# Publications
 <span class='anchor' id='publications'></span>
+## Selected Publications 
 \* Equal contribution
 † Corresponding author
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/chi2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Toward Personalized Proactive Agents on Smart Glasses: From Explicit Context Policies to Implicit User Differences](https://dl.acm.org/doi/pdf/10.1145/3772363.3798509)
+
+Haoxiang Fan, **Yiwei Yuan**, Chi Hsia, Chen Liang†, Zhenhui Peng
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICHEC 2025</div><img src='images/ichec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,13 +61,17 @@ Yuxin Huang\*, **Yiwei Yuan**\*, Xiangyu Zeng\*, Ling Xie, Yiyu Fu, Guanghui Yue
 </div>
 </div>
 
-# Full Publications
+## Full Publications
 <span class='anchor' id='full-publications'></span>
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **UIST 2026**
+- [Toward Personalized Proactive Agents on Smart Glasses: From Explicit Context Policies to Implicit User Differences](https://dl.acm.org/doi/pdf/10.1145/3772363.3798509) Haoxiang Fan, **Yiwei Yuan**, Chi Hsia, Chen Liang†, Zhenhui Peng
+- [Intelligent voice-interactive tailored communication system (ScreenTalk) to improve colorectal cancer screening uptake among first-degree relatives of colorectal cancer patients: study protocol for a cluster-randomised type I hybrid effectiveness-implementation trial](https://bmjopen.bmj.com/content/bmjopen/15/12/e109534.full.pdf) Shuya Lin, Baojia Luo, Lei Cai, Liangzhi Qiu, Haixia Li, Weiyan Liu, Yichao Luo, **Yiwei Yuan**, Zhenhui Peng, Yang Bai
+- [Exploring Community-Powered Conversational Agent for Health Knowledge Acquisition: A Case Study in Colorectal Cancer](https://arxiv.org/abs/2512.09511) **Yiwei Yuan**, Zhiqing Wang, Xiucheng Zhang, Yichao Luo, Shuya Lin, Yang Bai, Zhenhui Peng†  
+- [Full-reference motion quality assessment based on efficient monocular parametric 3d human body reconstruction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10687714) Yuxin Huang\*, **Yiwei Yuan**\*, Xiangyu Zeng\*, Ling Xie, Yiyu Fu, Guanghui Yue, Baoquan Zhao†  
 
-# Under Review
+## Under Review
 <span class='anchor' id='under-review'></span>
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **UIST 2026**
+- [Human-AI collaboration] **Yiwei Yuan**, Hao Yu, Xia Chen, [Yifan Cao](https://yifancao.com/), Xueyang Wu, Junkai Zhu, [Yuanhao Zhang](https://yuanhaozhang.xyz/), [Zhenhui Peng](https://zhenhuipeng.com/)†
+- [Human-AI collaboration] [Haoxiang Fan](https://fanhaoxiang.top/), **Yiwei Yuan**, Zongtan He, Chi Hsia, Liang Chen†, [Zhenhui Peng](https://zhenhuipeng.com/)
 
 # 🎖 Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>

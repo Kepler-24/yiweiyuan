@@ -66,6 +66,15 @@
     border-bottom: 1px solid $border-color;
   }
 
+  h2 {
+    margin-top: 2em;
+    margin-bottom: 0.75em;
+    padding-left: 0.75em;
+    border-left: 5px solid $info-color;
+    font-size: $type-size-4;
+    color: $darker-gray;
+  }
+
   p, li, dl {
     font-size: 1em;
   }
