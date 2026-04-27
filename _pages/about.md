@@ -77,12 +77,18 @@ Full-reference motion quality assessment based on efficient monocular parametric
 ## Under Review
 <span class='anchor' id='under-review'></span>
 - [Human-AI collaboration] **Yiwei Yuan**, Hao Yu, Xia Chen, [Yifan Cao](https://yifancao.com/), Xueyang Wu, Junkai Zhu, [Yuanhao Zhang](https://yuanhaozhang.xyz/), [Zhenhui Peng](https://zhenhuipeng.com/)†
-- [Human-AI collaboration] [Haoxiang Fan](https://fanhaoxiang.top/), **Yiwei Yuan**, Zongtan He, Chi Hsia, Liang Chen†, [Zhenhui Peng](https://zhenhuipeng.com/)
+- [Human-AI collaboration] [Haoxiang Fan](https://fanhaoxiang.top/), **Yiwei Yuan**, Zongtan He, Chi Hsia, Chen Liang†, [Zhenhui Peng](https://zhenhuipeng.com/)
 
 # 🎖 Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
+- Excellent Graduate Student Leader (2024-2025)
+- Silver Award, 18th 'Win at SYSU' Innovation and Entrepreneurship Competition (2025)
 - Excellent Graduate Academic Scholarship (2024-2025)
 - Excellent Undergraduate Scholarship (2020-2024)
+- Honorable Mention, Mathematical Contest in Modeling (MCM/ICM) (2023)
+- Second Prize, National College Student Software Innovation Competition (2023)
+- Excellent Communist Youth League Member (2023)
+- Excellence Award, National Virtual Simulation Experiment Innovation Competition (2022)
 
 # 📖 Educations
 <span class='anchor' id='educations'></span>
