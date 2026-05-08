@@ -22,10 +22,10 @@ My research interests lie in Human-Computer Interaction, Human-AI Collaboration,
 
 # 🔥 News
 <span class='anchor' id='news'></span>
-- *2026.04*： Attended CHI26 in Barcelona. Glad to meet researchers from around the world!
+- *2026.04*： Attended CHI'26 in Barcelona. Glad to meet researchers from around the world!
 - *2026.02*: &nbsp;🎉🎉 One paper was accepted to **CHI 2026** Poster as second author.
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted to **BMJ Open**.
-- *2025.11*： Attended ICHEC25 in Singapore and presented our work. 
+- *2025.11*： Attended ICHEC'25 in Singapore and presented our work. 
 - *2025.10*: &nbsp;🎉🎉 One paper was accepted to **ICHEC 2025** as first author.
 - *2023.03*: &nbsp;🎉🎉 One paper was accepted to **ICME 2024** (CCF-B) as co-first author.  
 
@@ -34,7 +34,7 @@ My research interests lie in Human-Computer Interaction, Human-AI Collaboration,
 ## Selected Publications 
 \* Equal contribution
 † Corresponding author
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/chi2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026 EA</div><img src='images/chi2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Toward Personalized Proactive Agents on Smart Glasses: From Explicit Context Policies to Implicit User Differences
