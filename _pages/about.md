@@ -102,7 +102,7 @@ Full-reference motion quality assessment based on efficient monocular parametric
 # 🧐 Academic Service
 <span class='anchor' id='academic-service'></span>
 - Journal: Coming soon.
-- Conference: Reviewer of CHI 2026 Poster.
+- Conference: Reviewer of CHI 2026 Poster, CSCW 2026 Poster.
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=n&d=R1g4BjbX72oy9-WctEXox1m3fth_Ede2b1DXlWYhm_o'></script>
 
