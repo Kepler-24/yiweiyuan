@@ -78,9 +78,7 @@ Full-reference motion quality assessment based on efficient monocular parametric
 <span class='anchor' id='under-review'></span>
 - [Human-AI collaboration] **Yiwei Yuan**, Hao Yu, Xia Chen, [Yifan Cao](https://yifancao.com/), Xueyang Wu, Junkai Zhu, [Yuanhao Zhang](https://yuanhaozhang.xyz/), [Zhenhui Peng](https://zhenhuipeng.com/)†
 - [Ubiquitous Computing] [Haoxiang Fan](https://fanhaoxiang.top/), **Yiwei Yuan**, Zongtan He, Chi Hsia, [Zhenhui Peng](https://zhenhuipeng.com/), Chen Liang†
-<!-- - [Human-AI collaboration] [Haoxiang Fan](https://fanhaoxiang.top/), **Yiwei Yuan**, Yuzhuo Jia, [Zhenhui Peng](https://zhenhuipeng.com/), Chen Liang†
-- [Human-AI collaboration] **Yiwei Yuan**, [Haoxiang Fan](https://fanhaoxiang.top/), Jiahao Xiao, Yanze Zhuang, [Zhenhui Peng](https://zhenhuipeng.com/)†
-- [Human-AI collaboration] Jingru Fan, **Yiwei Yuan**, Xueyang Wu, [Zhenhui Peng](https://zhenhuipeng.com/)† -->
+
 
 # 🎖 Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
