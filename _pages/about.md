@@ -77,13 +77,16 @@ Full-reference motion quality assessment based on efficient monocular parametric
 ## Under Review
 <span class='anchor' id='under-review'></span>
 - [Human-AI collaboration] **Yiwei Yuan**, Hao Yu, Xia Chen, [Yifan Cao](https://yifancao.com/), Xueyang Wu, Junkai Zhu, [Yuanhao Zhang](https://yuanhaozhang.xyz/), [Zhenhui Peng](https://zhenhuipeng.com/)†
-- [Human-AI collaboration] [Haoxiang Fan](https://fanhaoxiang.top/), **Yiwei Yuan**, Zongtan He, Chi Hsia, Chen Liang†, [Zhenhui Peng](https://zhenhuipeng.com/)
+- [Ubiquitous Computing] [Haoxiang Fan](https://fanhaoxiang.top/), **Yiwei Yuan**, Zongtan He, Chi Hsia, [Zhenhui Peng](https://zhenhuipeng.com/), Chen Liang†
+<!-- - [Human-AI collaboration] [Haoxiang Fan](https://fanhaoxiang.top/), **Yiwei Yuan**, Yuzhuo Jia, [Zhenhui Peng](https://zhenhuipeng.com/), Chen Liang†
+- [Human-AI collaboration] **Yiwei Yuan**, [Haoxiang Fan](https://fanhaoxiang.top/), Jiahao Xiao, Yanze Zhuang, [Zhenhui Peng](https://zhenhuipeng.com/)†
+- [Human-AI collaboration] Jingru Fan, **Yiwei Yuan**, Xueyang Wu, [Zhenhui Peng](https://zhenhuipeng.com/)† -->
 
 # 🎖 Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
 - Excellent Graduate Student Leader (2024-2025)
 - Silver Award, 18th 'Win at SYSU' Innovation and Entrepreneurship Competition (2025)
-- Excellent Graduate Academic Scholarship (2024-2025)
+- First Prize, Excellent Graduate Academic Scholarship (2024-2026)
 - Excellent Undergraduate Scholarship (2020-2024)
 - Honorable Mention, Mathematical Contest in Modeling (MCM/ICM) (2023)
 - Second Prize, National College Student Software Innovation Competition (2023)
